@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi!​i am informatics engineering/computer science. i passionate at Network Engineering & programming specially in web development, If you have open source project or oppurtunity i can contribute, Hit me up 🤙
+i passionate at Network Engineering & programming specially in web development, If you have open source project or oppurtunity i can contribute, Hit me up 🤙
 
 
 <p align="left">
